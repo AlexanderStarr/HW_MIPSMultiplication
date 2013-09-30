@@ -1,6 +1,6 @@
 Homework assignment for Computer Organization class. The assignment is to do the following:
 
-1. Implment our own 8-bit integer multiplication.
+1. Implement our own 8-bit integer multiplication.
 
 2. Use part 1 to compute the products of each element of two arrays.
 
